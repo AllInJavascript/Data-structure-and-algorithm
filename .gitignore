@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+node_modules
+release
+#nvm 版本控制
+.nvmrc
+..
+.
+#mac
+.DS_Store
